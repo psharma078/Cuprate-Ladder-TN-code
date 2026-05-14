@@ -58,7 +58,6 @@ op2 = ("Cdagup","Cdagdn","Cup","Cdn")
 op3 = ("Cdagdn","Cdagup","Cdn","Cup")
 op4 = ("Cdagdn","Cdagup","Cup","Cdn")
 
-#=
 ## along rung-rung
 indx = collect(1:2:2*L)
 #opsites = vec([(i,i+1,j+1,j) for j in indx, i in indx])
